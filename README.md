@@ -39,7 +39,7 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-**![storage]([https://salman-2283.github.io/Blume-Project/Screenshots/Storage.jpg))**
+**![storage]([https://salman-2283.github.io/Blume-Project/Screenshots/Storage.jpg)**
 
 # Static website
 **![Static Webiste)](https://salman-2283.github.io/Blume-Project/Screenshots/Static%20Website.jpg)**
