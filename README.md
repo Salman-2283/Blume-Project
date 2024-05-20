@@ -2,18 +2,18 @@
 guidance and overview of tourist places in India which are classified and seggregated helping in choosing places according to one's likes and preferences  
 
 # Project Details
-Project Demo URL:[https://intravelstorage.z13.web.core.windows.net/](https://blumestorageaccount.z13.web.core.windows.net/contact.html)
+Project Demo URL:https://blumestorageaccount.z13.web.core.windows.net/
 
 Demo Video URL:
 
 GitHub Repository URL:https://github.com/Salman-2283/Blume-Project
 
-Industry: Travel
+Industry: Earth
 # Roles and responsibilities
-Rajesh Nallabothula (project management) :Manages the web development project.
-Parimala Manthena (Deployment) :Deployment and maintenance of project infrastructure.
-Addakula Deena (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
-Vemgal Suhas (Documentation) :Responsible for managing the documentation process.
+Dausabgari Shaik Salman Basha (project management) :Manages the web development project.
+Mahalakshmi (Deployment) :Deployment and maintenance of project infrastructure.
+Ayesh (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
+Kalyani (Documentation) :Responsible for managing the documentation process.
 # Azure services used:
 Azure blob storage
 Storage account
