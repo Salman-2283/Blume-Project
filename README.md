@@ -71,10 +71,10 @@ Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-**![Screenshot (43)](https://github.com/rajesh-200105/My-projects/assets/166008797/e09ea703-e060-40a6-a26d-db0b854d17dc)**
+**![Blume Home](https://salman-2283.github.io/Blume-Project/Screenshots/Blume%20Home.png)**
 
 # About Us
-[https://github.com/Salman-2283/Blume-Project/blob/e89a93595f245fc5635275a6b886c59f8676f396/Screenshots/About%20US.png](https://github.com/Salman-2283/Blume-Project/blob/d5a4f0f08a48c2ed3cd4504a4711681c46ef8ab8/Screenshots/About%20US.png)
+**![About US](https://salman-2283.github.io/Blume-Project/Screenshots/About%20US.png)**
 
 # login
 **![Screenshot (54)](https://github.com/rajesh-200105/My-projects/assets/166008797/56527e9d-d507-4073-8a4b-ea5360e010f9)**
@@ -82,9 +82,18 @@ Here I am attaching the final working website's screenshot for the reference.
 # Register
 **![Screenshot (55)](https://github.com/rajesh-200105/My-projects/assets/166008797/de2252bc-d38f-4f27-b3a7-6a58fba7d26e)**
 
-# Categories
-**![Screenshot (47)](https://github.com/rajesh-200105/My-projects/assets/166008797/7adbd3ca-06ed-4def-bebb-2754e04e04ba)**
-**![Screenshot (48)](https://github.com/rajesh-200105/My-projects/assets/166008797/df3387d8-32fb-4a1c-b9bc-db1412e51eaa)**
+# Pages
+**![Features](https://salman-2283.github.io/Blume-Project/Screenshots/Features.png)**
+**![Quote](https://salman-2283.github.io/Blume-Project/Screenshots/Quote.png)**
+**![Our Team](https://salman-2283.github.io/Blume-Project/Screenshots/Our%20Team.png)**
+
+# Contact US
+**![Contact US](https://salman-2283.github.io/Blume-Project/Screenshots/Contact%20US.png)**
+
+# Chatbot
+**![Chatbot](https://salman-2283.github.io/Blume-Project/Screenshots/Chatbot.png)**
+
+
 
 # Conclusion:
 This is our website TravelIndia.By developing this travelIndia website we made easy to find what  and when to eplore by having good knowledge over the places.
