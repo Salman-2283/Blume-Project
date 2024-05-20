@@ -76,11 +76,11 @@ Here I am attaching the final working website's screenshot for the reference.
 # About Us
 **![About US](https://salman-2283.github.io/Blume-Project/Screenshots/About%20US.png)**
 
-# login
-**![Screenshot (54)](https://github.com/rajesh-200105/My-projects/assets/166008797/56527e9d-d507-4073-8a4b-ea5360e010f9)**
+# Services
+**![Services](https://salman-2283.github.io/Blume-Project/Screenshots/Services.png)**
 
-# Register
-**![Screenshot (55)](https://github.com/rajesh-200105/My-projects/assets/166008797/de2252bc-d38f-4f27-b3a7-6a58fba7d26e)**
+# Projects
+**![Projects](https://salman-2283.github.io/Blume-Project/Screenshots/Projects.png)**
 
 # Pages
 **![Features](https://salman-2283.github.io/Blume-Project/Screenshots/Features.png)**
