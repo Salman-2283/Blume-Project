@@ -61,7 +61,7 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 **![Screenshot (39)](https://github.com/rajesh-200105/My-projects/assets/166008797/03fa791e-d12e-4a8f-8109-3420763294b8)**
 
 # Test in web chat
-**![Screenshot (40)](https://github.com/rajesh-200105/My-projects/assets/166008797/81dee7a4-617e-47ad-be77-a9fdd5568c76)**
+**![Screenshot (40)](https://salman-2283.github.io/Blume-Project/Screenshots/Chatbot.png)**
 
 # Resource visualizer
 **![Screenshot (42)](https://github.com/rajesh-200105/My-projects/assets/166008797/06a631cd-32df-4c40-8bac-54e03be0a573)**
