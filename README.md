@@ -84,13 +84,13 @@ Here I am attaching the final working website's screenshot for the reference.
 **![Projects](https://salman-2283.github.io/Blume-Project/Screenshots/Projects.png)**
 
 # Pages
-Features
+# Features
 **![Features](https://salman-2283.github.io/Blume-Project/Screenshots/Features.png)**
 
-Quotes
+# Quotes
 **![Quote](https://salman-2283.github.io/Blume-Project/Screenshots/Quote.png)**
 
-Our Team
+# Our Team
 **![Our Team](https://salman-2283.github.io/Blume-Project/Screenshots/Our%20Team.png)**
 
 # Contact US
