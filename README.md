@@ -4,7 +4,7 @@ Blume Gardening aims to solve the problems that new gardeners encounter when try
 # Project Details
 Project Demo URL:https://blumestorageaccount.z13.web.core.windows.net/
 
-Demo Video URL:
+Demo Video URL: https://youtu.be/V0ozuDbgM1w?si=SMBdruYj8BdxaTe8
 
 GitHub Repository URL:https://github.com/Salman-2283/Blume-Project
 
