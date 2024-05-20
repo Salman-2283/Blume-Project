@@ -1,8 +1,8 @@
-# Travel India
+# Blume Project
 guidance and overview of tourist places in India which are classified and seggregated helping in choosing places according to one's likes and preferences  
 
 # Project Details
-Project Demo URL:https://intravelstorage.z13.web.core.windows.net/
+Project Demo URL:[https://intravelstorage.z13.web.core.windows.net/](https://blumestorageaccount.z13.web.core.windows.net/contact.html)
 
 Demo Video URL:https://youtu.be/hBkWYcBykCQ 
 
