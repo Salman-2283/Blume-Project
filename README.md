@@ -1,5 +1,5 @@
 # Blume Project
-	Blume Gardening aims to solve the problems that new gardeners encounter when trying to keep their gardens healthy and flourishing because they lack the necessary information, expertise, and direction. 
+Blume Gardening aims to solve the problems that new gardeners encounter when trying to keep their gardens healthy and flourishing because they lack the necessary information, expertise, and direction. 
 
 # Project Details
 Project Demo URL:https://blumestorageaccount.z13.web.core.windows.net/
