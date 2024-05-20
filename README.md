@@ -4,9 +4,9 @@ guidance and overview of tourist places in India which are classified and seggre
 # Project Details
 Project Demo URL:[https://intravelstorage.z13.web.core.windows.net/](https://blumestorageaccount.z13.web.core.windows.net/contact.html)
 
-Demo Video URL:https://youtu.be/hBkWYcBykCQ 
+Demo Video URL:
 
-GitHub Repository URL:https://github.com/rajesh-200105/My-projects
+GitHub Repository URL:https://github.com/Salman-2283/Blume-Project
 
 Industry: Travel
 # Roles and responsibilities
