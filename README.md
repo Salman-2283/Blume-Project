@@ -1,5 +1,5 @@
 # Blume Project
-guidance and overview of tourist places in India which are classified and seggregated helping in choosing places according to one's likes and preferences  
+	Blume Gardening aims to solve the problems that new gardeners encounter when trying to keep their gardens healthy and flourishing because they lack the necessary information, expertise, and direction. 
 
 # Project Details
 Project Demo URL:https://blumestorageaccount.z13.web.core.windows.net/
