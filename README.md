@@ -9,11 +9,13 @@ Demo Video URL:
 GitHub Repository URL:https://github.com/Salman-2283/Blume-Project
 
 Industry: Earth
+
 # Roles and responsibilities
 Dausabgari Shaik Salman Basha (project management) :Manages the web development project. <br>
 Mahalakshmi (Deployment) :Deployment and maintenance of project infrastructure. <br>
 Ayesha (Images, Content) :Responsible for image searching and Content Regarding Project. <br>
 Kalyani (Documentation) :Responsible for managing the documentation process. <br>
+
 # Azure services used:
 Azure blob storage
 Storage account
@@ -21,6 +23,7 @@ Azure Backup service
 Azure AI services
 chatbot
 Azure Role Based access Control(RBAC)
+
 # Problem Statement:
 Beautiful, lush gardens are something that numerous homeowners, commercial property owners and business property owners desire for the elegance and tranquility of nature in their homes or spaces in order to enhance their living and working environments, but often lack the necessary expertise, time, and resources to make these dreams come true. They face challenges such as selecting appropriate plants, designing aesthetically pleasing and functional garden spaces, installing efficient irrigation systems, and maintaining the health and beauty of their gardens over time. Additionally, concerns about sustainability and pest control add to the complexity of creating and maintaining these green spaces.
 To address these challenges, there is a need for a comprehensive service that not only designs and installs stunning, customized gardens but also offers ongoing assistance, maintenance and support. This service should leverage modern equipment and innovative techniques to ensure client satisfaction and sustainability. Blume aims to fill this gap by offering a diverse range of expert gardening services. 
@@ -29,7 +32,6 @@ To address these challenges, there is a need for a comprehensive service that no
 Blume is a leading gardening website focused on transforming homes into lush sanctuaries. Our experienced design and landscaping services are perfect for those who seek to integrate the tranquility and serenity of nature into their living areas. Through a detailed process that includes consultation, planning and design, and meticulous maintenance, Blume transforms homes and commercial properties into serene, plant-filled havens that bring nature’s beauty indoors and create harmonious living and working spaces.
 Blume offers a broad spectrum of services, including Professional Landscaping, Design and Decorating, Irrigation Installation, Maintenance and Services, Green Technology, and Pest and Disease Control. We provide unique personalized packages tailored to each customer's specific needs, ensuring a seamless and pleasing experience.
 At Blume, our devoted team of specialists provides steadfast assistance throughout the process, offering innovative solutions with the use of cutting-edge technology and emphasizing our commitment to exceptional customer service for optimal growth. We assist our clients through the entire journey, from initial consultation to remarkable results, and showcase our work on the website with project catalogues and process presentations. Furthermore, the website features a compelling portfolio of completed projects, serving as inspiration for potential clients and exemplifying our dedication to quality and customer satisfaction. Blume demonstrates the transformative power of effectively designed gardens, making every project a testament to our expertise and passion for creating beautiful, nature-filled spaces.
-
 
 # Core Azure Services:
 Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
@@ -82,8 +84,13 @@ Here I am attaching the final working website's screenshot for the reference.
 **![Projects](https://salman-2283.github.io/Blume-Project/Screenshots/Projects.png)**
 
 # Pages
+Features
 **![Features](https://salman-2283.github.io/Blume-Project/Screenshots/Features.png)**
+
+Quotes
 **![Quote](https://salman-2283.github.io/Blume-Project/Screenshots/Quote.png)**
+
+Our Team
 **![Our Team](https://salman-2283.github.io/Blume-Project/Screenshots/Our%20Team.png)**
 
 # Contact US
@@ -94,5 +101,6 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 
-# Conclusion:
-This is our website TravelIndia.By developing this travelIndia website we made easy to find what  and when to eplore by having good knowledge over the places.
+# Conclusion:Discover the joy of living amidst nature with Blume, where your dream of a tranquil, luxuriant home garden becomes a reality. Blume is your go-to partner for designing stunning, plant-filled spaces that infuse your dwelling with peace and harmony which serves as a gateway to a greener lifestyle. By combining expertise, modern equipment, and a passion for plants, Blume brings nature’s beauty into homes and commercial spaces. Whether it’s a vibrant kitchen garden or an elegant facade, Blume cultivates green spaces that enrich lives. 
+Every garden we develop and put up is a sustainable design with comprehensive services, and a commitment to client satisfaction. Join us to assist you in creating a beautiful haven, serene living environment where you get closer to nature every day. Explore Blume and embrace the serenity of a garden within your own living space.
+
