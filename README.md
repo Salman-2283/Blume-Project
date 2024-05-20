@@ -74,7 +74,7 @@ Here I am attaching the final working website's screenshot for the reference.
 **![Screenshot (43)](https://github.com/rajesh-200105/My-projects/assets/166008797/e09ea703-e060-40a6-a26d-db0b854d17dc)**
 
 # About Us
-**!Screenshots/About US.png**
+**!https://github.com/Salman-2283/Blume-Project/blob/e89a93595f245fc5635275a6b886c59f8676f396/Screenshots/About%20US.png**
 
 # login
 **![Screenshot (54)](https://github.com/rajesh-200105/My-projects/assets/166008797/56527e9d-d507-4073-8a4b-ea5360e010f9)**
