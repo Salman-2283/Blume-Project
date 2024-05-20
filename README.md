@@ -39,20 +39,19 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-**![storageac](https://github.com/rajesh-200105/My-projects/assets/166008797/5cf6ac24-1546-433a-9cd7-a0cf2441f768)**
+**![storage]([https://salman-2283.github.io/Blume-Project/Screenshots/Storage.jpg))**
 
 # Static website
-**![Screenshot (32)](https://github.com/rajesh-200105/My-projects/assets/166008797/9bbeb3e5-504e-4fa2-a3c2-fcb994fecb36)**
-
+**![Static Webiste)](https://salman-2283.github.io/Blume-Project/Screenshots/Static%20Website.jpg)**
 
 # Container
-**![Screenshot (33)](https://github.com/rajesh-200105/My-projects/assets/166008797/b8ccfcee-fce0-4b1f-a99a-4a5a136f25fe)**
+**![Container)](https://salman-2283.github.io/Blume-Project/Screenshots/Container.jpg)**
 
 # Backup vault
-**![Screenshot (35)](https://github.com/rajesh-200105/My-projects/assets/166008797/e04e649c-6ff3-4657-b7e2-9690455586a4)**
+**![Backup Vault)](https://salman-2283.github.io/Blume-Project/Screenshots/Backup%20Vault.jpg)**
 
 # Role assignment
-**![Screenshot (37)](https://github.com/rajesh-200105/My-projects/assets/166008797/e3dc055d-4101-4e94-90bb-c5987d38ca14)**
+**![Role Assignments](https://salman-2283.github.io/Blume-Project/Screenshots/Role%20Assignments.jpg)**
 
 # Backup policy
 **![Screenshot (51)](https://github.com/rajesh-200105/My-projects/assets/166008797/27d151f9-0ff7-4549-bf26-c9365cc0d605)**
