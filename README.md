@@ -54,10 +54,10 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 **![Role Assignments](https://salman-2283.github.io/Blume-Project/Screenshots/Role%20Assignments.jpg)**
 
 # Backup policy
-**![Screenshot (51)](https://github.com/rajesh-200105/My-projects/assets/166008797/27d151f9-0ff7-4549-bf26-c9365cc0d605)**
+**![Policy](https://salman-2283.github.io/Blume-Project/Screenshots/Policy.jpg)**
 
 # Azure Bot
-**![Screenshot (39)](https://github.com/rajesh-200105/My-projects/assets/166008797/03fa791e-d12e-4a8f-8109-3420763294b8)**
+**![Bot](https://salman-2283.github.io/Blume-Project/Screenshots/Bot.jpg)**
 
 # Test in web chat
 **![Web Chat Test](https://salman-2283.github.io/Blume-Project/Screenshots/Web%20Chat%20Test.png)**
