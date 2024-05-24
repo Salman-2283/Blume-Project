@@ -11,10 +11,10 @@ GitHub Repository URL:https://github.com/Salman-2283/Blume-Project
 Industry: Earth
 
 # Roles and responsibilities
-Dausabgari Shaik Salman Basha (project management) :Manages the web development project. <br>
-Mahalakshmi (Deployment) :Deployment and maintenance of project infrastructure. <br>
-Ayesha (Images, Content) :Responsible for image searching and Content Regarding Project. <br>
-Kalyani (Documentation) :Responsible for managing the documentation process. <br>
+Dausabgari Shaik Salman Basha (project management) : Manages the web development project. <br>
+Mahalakshmi (Deployment) : Deployment and maintenance of project infrastructure. <br>
+Ayesha (Images, Content) : Responsible for image searching and Content Regarding Project. <br>
+Kalyani (Documentation) : Responsible for managing the documentation process. <br>
 
 # Azure services used:
 Azure blob storage
